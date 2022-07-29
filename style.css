@@ -1,0 +1,29 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  margin: none;
+  text-align:center;
+  font-family: fantasy;
+}
+.container{
+  background-color: hsl(0, 0%, 100%);
+  height:540px;
+  width:400px;
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.p1{
+  font-weight: 700;
+  padding: 0 30px;
+}
+.p2{
+  font-weight: 400;
+  padding: 0 30px;
+  color: hsl(220, 15%, 55%)
+}
+ img{
+  height: 360px;
+  width: auto;
+  border-radius: 20px;
+  margin: 20px;
+}
